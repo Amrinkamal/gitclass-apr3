@@ -1,6 +1,5 @@
 Lin1
 Lin2
-Line3 
 Line4
 This file edited from remote repo
 File updated from TEST branch
